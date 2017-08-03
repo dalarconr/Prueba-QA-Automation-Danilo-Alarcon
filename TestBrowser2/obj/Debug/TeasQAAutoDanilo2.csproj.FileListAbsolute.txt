@@ -1,0 +1,11 @@
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\TestBrowser2.dll
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\TestBrowser2.pdb
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\nunit.framework.dll
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\WebDriver.dll
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\WebDriver.Support.dll
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\nunit.framework.xml
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\WebDriver.xml
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\WebDriver.Support.xml
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\obj\Debug\TeasQAAutoDanilo2.csprojResolveAssemblyReference.cache
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\obj\Debug\TestBrowser2.dll
+C:\Users\DALARCONR\Documents\Visual Studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\obj\Debug\TestBrowser2.pdb

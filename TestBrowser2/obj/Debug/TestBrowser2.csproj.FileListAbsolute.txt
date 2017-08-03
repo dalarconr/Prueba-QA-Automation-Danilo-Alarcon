@@ -1,0 +1,9 @@
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\TestBrowser2.dll
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\TestBrowser2.pdb
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\nunit.framework.dll
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\WebDriver.dll
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\nunit.framework.xml
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\bin\Debug\WebDriver.xml
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\obj\Debug\TestBrowser2.csprojResolveAssemblyReference.cache
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\obj\Debug\TestBrowser2.dll
+c:\users\dalarconr\documents\visual studio 2017\Projects\SeleniumTestBrowser\TestBrowser2\obj\Debug\TestBrowser2.pdb
